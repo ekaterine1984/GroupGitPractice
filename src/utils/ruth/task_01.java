@@ -24,6 +24,8 @@ public class task_01 {
         System.out.println(result);
     }
 
+    //You forgot one more task
+
 
         public static void divide(int num1, int num2) { // dividend  and divider(denominator)
             if (num2 == 0) {
