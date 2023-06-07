@@ -1,4 +1,4 @@
-package utils.ruth;
+package ruth_tasks;
 
 public class task_01 {
     public static void main(String[] args) {
