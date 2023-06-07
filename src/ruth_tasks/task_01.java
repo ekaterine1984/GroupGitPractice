@@ -1,4 +1,4 @@
-package utils.ruth;
+package ruth_tasks;
 
 public class task_01 {
     public static void main(String[] args) {
@@ -23,6 +23,8 @@ public class task_01 {
 
         System.out.println(result);
     }
+
+    //You forgot one more task
 
 
         public static void divide(int num1, int num2) { // dividend  and divider(denominator)
