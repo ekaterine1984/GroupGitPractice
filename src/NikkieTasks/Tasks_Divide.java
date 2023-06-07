@@ -1,4 +1,4 @@
-package utils;
+package NikkieTasks;
 
 public class Tasks_Divide {
 
