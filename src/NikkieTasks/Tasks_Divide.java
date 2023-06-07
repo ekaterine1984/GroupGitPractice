@@ -27,7 +27,7 @@ public class Tasks_Divide {
             return result;
 
 
-        }
+        }// good job
 
 // Numbers -- Divide without / operator
 //Write a method that can divide two numbers without using division operator
