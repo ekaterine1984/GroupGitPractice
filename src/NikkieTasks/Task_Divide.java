@@ -1,6 +1,6 @@
-package utils;
+package NikkieTasks;
 
-public class Tasks_Divide {
+public class Task_Divide {
 
         public static void main(String[] args) {
             System.out.println(Divide (9,0));
